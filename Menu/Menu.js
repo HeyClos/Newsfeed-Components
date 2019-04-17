@@ -42,7 +42,7 @@ menuButton.addEventListener('click', () => {
 
 //menuButton.addEventListener('click', "toggleMenu");
 
-
+}}
 
 
 
